@@ -6,5 +6,4 @@
 -unidad1/ejercicio3.md (https://github.com/GRMANDL/prueba2_german/blob/master/ejercicio3_Germ%C3%A1n.7z)  
 
 -unidad1/ejercicio4.md (resolución del ejercicio 4)  
-Esto es una puta mierda
 
